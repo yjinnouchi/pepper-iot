@@ -1,0 +1,16 @@
+{
+    "name": "openlab-demo",
+    "version": "0.0.0",
+    "description": "sample for OpenLAB",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "climate-si7020": "0.1.1",
+        "pubnub": "3.7.0"
+    },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
